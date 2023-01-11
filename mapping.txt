@@ -1,0 +1,3 @@
+images:
+logo-s.png -> personal brand logo (PK)
+logo_sub.png -> brand name (Parth Kansara)
